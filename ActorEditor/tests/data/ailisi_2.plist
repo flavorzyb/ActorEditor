@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ailisi_2/cshenti02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 64}, {14, 17}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {14, 17}}</string>
+			<key>sourceSize</key>
+			<string>{14, 17}</string>
+		</dict>
+		<key>ailisi_2/ctoufa03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 1}, {69, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 61}}</string>
+			<key>sourceSize</key>
+			<string>{69, 61}</string>
+		</dict>
+		<key>ailisi_2/cwuguan03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{148, 45}, {37, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 39}}</string>
+			<key>sourceSize</key>
+			<string>{37, 39}</string>
+		</dict>
+		<key>ailisi_2/cxiaotui+.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{51, 95}, {9, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {9, 15}}</string>
+			<key>sourceSize</key>
+			<string>{9, 15}</string>
+		</dict>
+		<key>ailisi_2/cxiaotui03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{147, 84}, {9, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {9, 15}}</string>
+			<key>sourceSize</key>
+			<string>{9, 15}</string>
+		</dict>
+		<key>ailisi_2/cyaodai02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 93}, {13, 8}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {13, 8}}</string>
+			<key>sourceSize</key>
+			<string>{13, 8}</string>
+		</dict>
+		<key>ailisi_2/dabi+.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{164, 84}, {6, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {6, 10}}</string>
+			<key>sourceSize</key>
+			<string>{6, 10}</string>
+		</dict>
+		<key>ailisi_2/dabi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{139, 93}, {6, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {6, 10}}</string>
+			<key>sourceSize</key>
+			<string>{6, 10}</string>
+		</dict>
+		<key>ailisi_2/datui+.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 45}, {15, 19}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {15, 19}}</string>
+			<key>sourceSize</key>
+			<string>{15, 19}</string>
+		</dict>
+		<key>ailisi_2/datui.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 99}, {18, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 14}}</string>
+			<key>sourceSize</key>
+			<string>{18, 14}</string>
+		</dict>
+		<key>ailisi_2/erduo+.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{19, 84}, {30, 32}}</string>
+			<key>offset</key>
+			<string>{-1, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 34}</string>
+		</dict>
+		<key>ailisi_2/erduo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 119}, {28, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 38}}</string>
+			<key>sourceSize</key>
+			<string>{29, 38}</string>
+		</dict>
+		<key>ailisi_2/peishi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 62}, {18, 18}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {18, 18}}</string>
+			<key>sourceSize</key>
+			<string>{18, 19}</string>
+		</dict>
+		<key>ailisi_2/shenti.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 82}, {15, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {15, 18}}</string>
+			<key>sourceSize</key>
+			<string>{15, 18}</string>
+		</dict>
+		<key>ailisi_2/toufa01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 64}, {30, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 31}}</string>
+			<key>sourceSize</key>
+			<string>{30, 31}</string>
+		</dict>
+		<key>ailisi_2/toufa02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {74, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 61}}</string>
+			<key>sourceSize</key>
+			<string>{74, 61}</string>
+		</dict>
+		<key>ailisi_2/toufa03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 64}, {21, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 27}}</string>
+			<key>sourceSize</key>
+			<string>{21, 27}</string>
+		</dict>
+		<key>ailisi_2/toushi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{148, 1}, {61, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {61, 42}}</string>
+			<key>sourceSize</key>
+			<string>{61, 42}</string>
+		</dict>
+		<key>ailisi_2/weiba.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{53, 64}, {29, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 36}}</string>
+			<key>sourceSize</key>
+			<string>{29, 36}</string>
+		</dict>
+		<key>ailisi_2/wuguan01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209, 80}, {37, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 39}}</string>
+			<key>sourceSize</key>
+			<string>{37, 39}</string>
+		</dict>
+		<key>ailisi_2/wuguan02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 41}, {37, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 39}}</string>
+			<key>sourceSize</key>
+			<string>{37, 39}</string>
+		</dict>
+		<key>ailisi_2/wuguan03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 1}, {38, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 39}}</string>
+			<key>sourceSize</key>
+			<string>{38, 39}</string>
+		</dict>
+		<key>ailisi_2/xiaobi+.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 84}, {13, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {13, 16}}</string>
+			<key>sourceSize</key>
+			<string>{13, 16}</string>
+		</dict>
+		<key>ailisi_2/xiaobi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{17, 64}, {13, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {13, 16}}</string>
+			<key>sourceSize</key>
+			<string>{13, 16}</string>
+		</dict>
+		<key>ailisi_2/xiaotui+.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{32, 64}, {9, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {9, 16}}</string>
+			<key>sourceSize</key>
+			<string>{9, 16}</string>
+		</dict>
+		<key>ailisi_2/xiaotui.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 95}, {9, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {9, 15}}</string>
+			<key>sourceSize</key>
+			<string>{9, 15}</string>
+		</dict>
+		<key>ailisi_2/yaodai.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43, 64}, {16, 8}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 8}}</string>
+			<key>sourceSize</key>
+			<string>{16, 8}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>ailisi_2.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>
